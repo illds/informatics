@@ -1,0 +1,9 @@
+Sub Code()
+	For Each cell In Selection
+	If cell.Value Like "1" Then
+    		cell.Interior.ColorIndex = 41
+	ElseIf cell.Value Like "0" Then
+    		cell.Interior.ColorIndex = 6
+	End If
+	Next
+End Sub

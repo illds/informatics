@@ -1,0 +1,27 @@
+---
+schedule:
+  day:
+    name:  Вск
+    name:  Четверг
+    lesson:
+      name:  Математика (Практика)
+      time:
+        time:  10:00-11:30
+      place:
+        audience:  3408
+        building:  ул.Ломоносова, д.9, лит. Е
+      teacher:
+        name:  Милюшин Александр Сергеевич
+      format:
+        format:  Очно - дистанционный
+    lessоn:
+      name:  Математика (Лекция)
+      time:
+        time:  13:30-15:00
+      place:
+        audience:  1222
+        building:  ул.Ломоносова, д.9, лит. М
+      teacher:
+        name:  Холодова Светлана Евгеньевна
+      format:
+        format:  Очно - дистанционный
